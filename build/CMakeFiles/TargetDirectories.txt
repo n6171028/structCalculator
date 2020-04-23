@@ -1,4 +1,0 @@
-/home/shane/Documents/code/open/structCalculator/build/CMakeFiles/rebuild_cache.dir
-/home/shane/Documents/code/open/structCalculator/build/CMakeFiles/structCalculator.dir
-/home/shane/Documents/code/open/structCalculator/build/CMakeFiles/edit_cache.dir
-/home/shane/Documents/code/open/structCalculator/build/CMakeFiles/structCalculator_autogen.dir
