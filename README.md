@@ -14,6 +14,8 @@ cmake ..
 make
 
 ```
+# To use it
+Press the data type, and then use the NumPad to add the size (if it is an array). Default is 1. Then press enter.
 
 # Notes
 It's not well tested yet, and it was only tested built on Ubuntu 18.04. 
